@@ -1,5 +1,5 @@
 {
-  "name": "core/retry-manager",
+  "name": "laravel/retry-manager",
   "type": "project",
   "require": {
     "php": "^8.2",
