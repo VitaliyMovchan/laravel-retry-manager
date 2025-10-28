@@ -1,0 +1,16 @@
+{
+  "name": "core/retry-manager",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "illuminate/collections": "^12.35",
+    "illuminate/log": "^12.35"
+  },
+  "autoload": {
+    "psr-4": {
+      "Retry\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
